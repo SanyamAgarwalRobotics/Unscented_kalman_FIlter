@@ -64,4 +64,6 @@ My test results have been save in file
    ![alt text][image1]
    Similarly NIS data for laser is also drawn and match the expectation.
    ![alt text][image2]
-
+   
+2. Ground truth and estimated yaw and yaw rate with time is also drawn for fused data
+ ![alt text][image3]
