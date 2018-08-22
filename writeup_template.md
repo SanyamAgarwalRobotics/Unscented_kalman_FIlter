@@ -53,6 +53,9 @@ RMSE for ukf is lower than ekf.
 [image1]: ./visualization/nis_plot_radar.png "NIS plot, data from Radar only"
 [image2]: ./visualization/nis_plot_laser.png "NIS plot, data from laser only"
 [image3]: ./visualization/yaw_radar_laser_vs_time.png "Yaw plot, from fused data"
+[image4]: ./visualization/yaw_rate_radar_laser.png "Yaw rate plot, from fused data"
+[image5]: ./visualization/yaw_vs_time_laser_only.png "Yaw plot, from laser only"
+[image6]: ./visualization/yaw_rate_laser_only.png "Yaw rate plot, from laser only"
 
 My test results have been save in file 
    obj_pose-laser-radar-ukf-output.txt  -->  for rader and laser 
@@ -67,3 +70,6 @@ My test results have been save in file
    
 2. Ground truth and estimated yaw and yaw rate with time is also drawn for fused data
  ![alt text][image3]
+ ![alt text][image5]
+ ![alt text][image4]
+ ![alt text][image6]
