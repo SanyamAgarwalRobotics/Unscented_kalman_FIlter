@@ -61,6 +61,8 @@ My test results have been save in file
    obj_pose-laser-radar-ukf-output.txt  -->  for rader and laser 
    obj_pose-laser-only-ukf-output.txt   -->  for laser only
 
+the python script to draw the data is in file ukf-visualization.ipynb
+
 1. Figure for NIS Data from radar with time k is presented in
    fig: "NIS vs measured time"  where 95% line (7.8) is also drawn.
    It matches the expectation, there are few peaks (<5%) above 7.8
