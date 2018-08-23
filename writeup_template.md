@@ -56,7 +56,7 @@ RMSE for ukf is lower than ekf.
 [image4]: ./visualization/yaw_rate_radar_laser.png "Yaw rate plot, from fused data"
 [image5]: ./visualization/yaw_vs_time_laser_only.png "Yaw plot, from laser only"
 [image6]: ./visualization/yaw_rate_laser_only.png "Yaw rate plot, from laser only"
-[image7]: ./Catch_car/Catch_car.png "Yaw rate plot, from laser only"
+[image7]: ./catch_car/Catch_car.png "Yaw rate plot, from laser only"
 
 My test results have been save in file 
    obj_pose-laser-radar-ukf-output.txt  -->  for rader and laser 
